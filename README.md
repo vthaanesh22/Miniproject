@@ -54,17 +54,21 @@ HarvestMate addresses these challenges by integrating machine learning models th
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Outlook of the website
-<img width="1897" height="1021" alt="image" src="https://github.com/user-attachments/assets/98e36f4c-8326-4539-98f6-6ba6056fd21b" />
+<img width="1886" height="1023" alt="Screenshot 2025-12-27 005503" src="https://github.com/user-attachments/assets/f5f49f58-8c16-4909-86ae-b0c70e535246" />
+
 
 
 #### Output2 -Crop Recommendation
-<img width="400" height="710" alt="image" src="https://github.com/user-attachments/assets/9fda2935-e529-4a68-9d87-0b63f46d3d96" />
+<img width="1897" height="1010" alt="Screenshot 2025-12-27 011941" src="https://github.com/user-attachments/assets/5f74dea8-d944-4521-9afa-0b224266c738" />
+
 
 #### Output3 -Fertilizer Prediction
-<img width="1893" height="1000" alt="image" src="https://github.com/user-attachments/assets/9e43fcec-376a-4953-a127-0eb8ffb06ba4" />
+<img width="1907" height="970" alt="Screenshot 2025-12-27 011739" src="https://github.com/user-attachments/assets/d9468309-303e-4679-8b4c-2c342bc605f7" />
+
 
 #### Output4 -Market Price Prediction
-<img width="1900" height="1008" alt="image" src="https://github.com/user-attachments/assets/4fd191ed-10de-4745-98e8-cb157b98ea3e" />
+<img width="1919" height="1015" alt="Screenshot 2025-12-27 011617" src="https://github.com/user-attachments/assets/22e5d7f6-b550-404a-8895-61f3f6ae456b" />
+
 
 ## 🔮 Future Goals
 
